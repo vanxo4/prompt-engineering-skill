@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Engineering"
+  short_description: "Design, improve, and evaluate reliable LLM prompts."
+  default_prompt: "Create or improve a prompt for my task, then explain the key design choices."
